@@ -1,0 +1,6 @@
+5535a66 HEAD@{0}: revert: Revert "Change in text2.txt"
+24339b2 HEAD@{1}: commit: Change in text2.txt
+e555649 HEAD@{2}: reset: moving to e555649
+4645a16 HEAD@{3}: commit: Add text2.txt
+e555649 HEAD@{4}: commit: Add text.txt
+080c243 HEAD@{5}: commit (initial): Add .gitignore
